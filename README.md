@@ -1,4 +1,4 @@
-<h1>Desafio de projeto prático proposto pela Potência Tech powered by iFood | Ciência de Dados em 1conjunto com a DIO.</h1>
+<h1>Desafio de projeto prático proposto pela Potência Tech powered by iFood | Ciência de Dados em conjunto com a DIO.</h1>
 
 <h2>Criando um Sistema Bancário com Python</h2>
 
